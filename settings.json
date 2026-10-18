@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "sinking-ship.aternos.me",
+    "port": 60525,
     "version": "",
     "try-creative": false
   },
